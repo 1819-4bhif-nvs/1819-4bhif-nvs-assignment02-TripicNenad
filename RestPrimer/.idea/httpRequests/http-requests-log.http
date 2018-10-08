@@ -1,0 +1,56 @@
+GET http://localhost:8080/restprimer/rs/time
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-24T114425.200.txt
+
+###
+
+GET http://localhost:8080/restprimer/rs/time
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-24T114335.200.txt
+
+###
+
+GET http://localhost:8080/restprimer/rs
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/restprimer/rs
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/restprimer/rs
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/restprimer/rs
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/restprimer/rs/time
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-24T114223.200.txt
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-24T114203.404.html
+
+###
+
